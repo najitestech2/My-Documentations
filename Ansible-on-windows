@@ -5,9 +5,9 @@ ENABLE WINDOWS SUBSYSTEM FOR LINUX
 Go to, programs & features, then select, turn windows feature on and off, scroll down untill you see windows subsystem for linux click on the check box to select it and hit OK
 
 ACTIVATE WINDOWS SUBSYSTEM
-Open up a command prompt and type in bash, and this will take you through some series of questions. When the download is complete it wil axtract and install, 
+Open up a command prompt and type in bash, and this will take you through some series of questions. When the download is complete it will axtract and install.
 next it will ask you to create user and password, this will create a linux environment and take you right to the bash and shell.
-now, typr bash at the start menu and that will bring up the Ubuntu bash application.
+now, type bash at the start menu and that will bring up the Ubuntu bash application.
 
 INSTALL ANSIBLE ON WINDOWS MACHINE
 Install the common software tools by typing, sudo apt-get install software-properties-common
